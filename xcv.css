@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(61, 56, 56);
+}
+
+iframe{
+    border: none;
+    position: absolute;
+    left: 12%;
+    width:70%;
+    height:500px;
+    margin: auto;
+}
